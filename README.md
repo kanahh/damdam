@@ -2,4 +2,4 @@
 deskop-tutorial
 
 me :)
-im ka and i like to but im suck :)
+im ka and i like to code but im suck :)
